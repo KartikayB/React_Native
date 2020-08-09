@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655461872022",
+    "firebase_url": "https://wfi-cfp-project.firebaseio.com",
+    "project_id": "wfi-cfp-project",
+    "storage_bucket": "wfi-cfp-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655461872022:android:5bfa2dc57a1ef13c962db7",
+        "android_client_info": {
+          "package_name": "com.wfi_cfp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655461872022-oe354pe5oabrg9b4li10aao4eutlqdv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wfi_cfp_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "655461872022-jskbak65gqg9dcg9lu5h927rjmn6sf2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAM0McfiOufnAnECZ_hBSxG9SMnn9p-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655461872022-8nm2cb1m2t1vaslj6npsvvvu7gnb53uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
